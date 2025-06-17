@@ -1,7 +1,7 @@
 # Multi-Robot Leader-Follower Simulation & Control (MATLAB GUI)
 
-> **Team 3 – Graduation Thesis**  
-> Experimental platform for multi differential-drive robots, controlled via MATLAB, testing the leader-follower algorithm.
+> This project develops a GUI in MATLAB to build experimental platform for multi differential-drive robots testing the leader-follower algorithm.
+
 
 ---
 
