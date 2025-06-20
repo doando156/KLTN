@@ -13,19 +13,16 @@ This project provides a **MATLAB GUI** that enables:
 
 ---
 
----
+### **Experiment**
 
-### **Thí nghiệm**
+The system was tested in real environment 
 
-**Experiment 1: Real-world Setup**  
-In this experiment, we tested the multi-robot control system in a real-world environment. Below is the visual representation of the setup:
+![Experiment Real-World](appendix/Real_experiment.gif)
 
-![Simulation](Appendix/4real.jpg)
+**Simulation**  
+We display the scenario in the simulation environment via MATLAB
 
-**Experiment 2: Simulation Process**  
-The system was also tested in simulation mode, where the leader-follower algorithm was implemented. Watch the animation of the robots moving and following the leader:
-
-![Experiment Real-World](Appendix/Real_experiment.gif)
+![Simulation](appendix/4real.jpg)
 
 ---
 
